@@ -10,6 +10,9 @@ function App() {
         <p>
           This is bbb my inplace change <code>src/App.js</code> and save to reload.
         </p>
+        <p className="App-header">
+            This is a new text added in feature branch
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
